@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>Motocross</title>
+<body bgcolor="33ffbb">
+<font face="arial" size="6" color="ff33ff"> <p align="center">
+quady </font></b></p>
+<font face="arial" size="5" color="ff33ff"><p="right">
+<h1> Quady </h1> </font></p>
+<b> wszędołaz, czterokołowiec, ATV – pojazd czterokołowy, przeznaczony głównie do sportu i rekreacji.
+ATV jest otwartym pojazdem (bez kabiny), przeznaczonym do jazdy poza drogami utwardzonymi. 
+Wszędołazy mogą być trójkołowe </b>
+<font face="arial" size="5" color="lime"> <p align="left">
+<h1>Najlepsze quady: </h1></font></b></p>
+<b>Rm Trophy 800 full face <a href="file:///C:/Users/Milosz/Desktop/Strona%20internetowa/pod%20strona%20quad2.html">Rm Trophy 800</a><p>
+Polaris Scrambler 100 XP <a href="file:///C:/Users/Milosz/Desktop/Strona%20internetowa/pod%20strona%20quad3.html">Polaris Scrambler 100 XP </a>
+</p></b>
+<font face="arial" size="5" color="lime"><p="left">
+<h1> Tuning  </h1> </font></p>
+<b>Jak w przypadku wszelakich pojazdów kołowych tak i w tym wypadku tuning quadów można podzielić na dwa główne rodzaje: mechaniczny i wizualny.
+Tuning wizualny polega na ingerowaniu w całokształt składający się na ogólny wygląd i estetykę postrzegania pojazdu przez kierowców, w tym głównie innych posiadaczy quadów.
+W Polsce ten rodzaj modyfikacji nie jest zbytnio rozpowszechniony (w przeciwieństwie do posiadaczy samochodów osobowych). Wynika to ze specyfiki właścicieli pojazdów,
+którym zazwyczaj zależy na lepszych osiągach tych pojazdów, niż na walorach czysto estetycznych. Nie bez znaczenia pozostaje także funkcja samego ATV, 
+który często stawiany jest przed trudnymi próbami terenowymi, a co za tym idzie narażony jest na możliwość przewrócenia.
+Tuning mechaniczny stawia przed właścicielami quadów większe pole do popisu. W przypadkach zawodników występujących w zawodach sportowych organizowanych w różnych kategoriach opisanych poniżej, 
+jest to niemal podstawą do odniesienia sukcesu. Nierzadko cena wymienionych, ulepszonych części przewyższa wartość ATV w jego podstawowej, fabrycznej wersji. Zakres części poddawanych tuningowi w tych pojazdach jest szeroki.
+W zależności od upodobań właścicieli oraz potrzeb modyfikacje zaczynają się od montowania mocniejszych silników lub modyfikacji starych. Istnieją na rynku zestawy, tzw. tuning kity,
+w skład których wchodzą elementy do modyfikacji układów dolotowych (dysz, gaźników, filtrów) przez procesory ze sportowymi mapami zapłonów, na wydechach skończywszy.
+W zależności od potrzeb wymianie lub modyfikacji ulegają układy napędowe, łańcuchy, zębatki czy wały napędowe.</b>
+<font face="arial" size="5" color="lime"><p="left">
+<h1>Bezpieczeństwo  </h1> </font></p>
+<b>ATV poruszające się na polskich drogach powinny być zarejestrowane, posiadać tablice rejestracyjne i mieć ubezpieczenie OC. Do stycznia 2013 ich prowadzenie było dozwolone na tych samych zasadach jak motoroweru.
+Od 19 stycznia 2013 roku weszła w życie nowelizacja Prawa o ruchu drogowym, która wprowadziła definicję czterokołowca.</b>
+
+
+
+
